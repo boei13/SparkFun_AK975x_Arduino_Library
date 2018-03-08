@@ -1,3 +1,5 @@
+#include <SparkFun_AK975X_Arduino_Library.h>
+
 /*
   AK9752 Human Presence and Movement Sensor Example Code
   By: Nathan Seidle
